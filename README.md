@@ -83,15 +83,25 @@ The analysis includes:
 
 The project includes the following visualizations:
 
-1. **Applicant Distribution by Risk Category**
-2. **Average Loan Amount by Risk Category**
-3. **Loan Approval Distribution**
-4. **Loan Approval Rate by CIBIL Risk Category**
-5. **Loan Approval Rate by Education**
-6. **Loan Approval Rate by Self-Employment**
-7. **Annual Income vs Loan Amount**
-8. **Annual Income vs Loan Amount by Loan Status**
-9. **Loan Approval Rate Across CIBIL Score Bands**
+---
+
+## 📊 Key Visualizations
+
+### 1. Applicant Distribution by Risk Category
+
+![Applicant Distribution by Risk Category](images/applicant_distribution_risk.png)
+
+### 2. Loan Approval Rate by CIBIL Risk Category
+
+![Loan Approval Rate by CIBIL Risk Category](images/approval_rate_cibil_risk.png)
+
+### 3. Loan Approval Rate Across CIBIL Score Bands
+
+![Loan Approval Rate Across CIBIL Score Bands](images/approval_rate_cibil_bands.png)
+
+### 4. Annual Income vs Loan Amount by Loan Status
+
+![Annual Income vs Loan Amount by Loan Status](images/annual_income_vs_loan_status.png)
 
 ---
 
